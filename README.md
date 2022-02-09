@@ -1,1 +1,36 @@
-# myproject
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>The Cats</title>
+    </head>
+    <body>
+        <table>
+            <td>
+                <h1>Pochi the Cat</h1>
+                <h2>Introduction</h2>
+                <p>Pochi was adopted from an animal shelter and now resides in Seattle. WA, where<br>
+                she runs a small but successful web page design business exclusively for cat clients.</p>
+                <h3>Profile</h3>
+                <ul>
+                    <li><em>favorite food</em> - smoked salmon</li>
+                    <li><em>hobbies</em> - watching fishing on ESPN,snacking on garden flowers, monitoring<br>
+                    the apartment parking lot</li>
+                    <li><em>hidden talent</em> - Karaoke</li>
+                   
+                </ul>
+                
+                <h3>Links</h3>
+                
+                <ul>
+                    <li><a  href="https://www.seattle.gov/animalshelter" target="blank" >Seattle Animal Control Shelter</a></li>
+                    <li><a href="https://www.humanesociety.org/" target="blank" >Humane Society of the United States</a></li>
+                </ul>
+            </td>
+           <td>
+            <img src="image/26991cc0e96c71a9239940aac674ac4c.jpg" alt="cat" width="250px" height="300px"/>
+            </td> 
+           
+        </table>
+    </body>
+</html>
